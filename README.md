@@ -12,7 +12,7 @@ Start the web server:
 python -m SimpleHTTPServer 8000
 ```
 
-View the app at http://localhost:8000/
+View the app at [http://localhost:8000/]
 
 ### Libraries
 
